@@ -1,7 +1,11 @@
 {
-  "category": "Cultura",
-  "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
-  "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
-  "answer": 0,
-  "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
+  "category": "Historia",
+  "question": "¿Dónde y cuándo se inventó la pólvora?",
+  "options": [
+    "En Estados Unidos en el siglo XIX.",
+    "En China en el siglo IX",
+    "En Francia en el siglo XVII."
+  ],
+  "answer": 1,
+  "explanation": "En China en el siglo IX, La pólvora fue inventada en China cuando curanderos y químicos estaban buscando crear una medicina que diera la inmortalidad. El intento falló. Esta luego se utilizó para hacer fuegos artificiales. En siglos posteriores, se empezó a usar en las armas de Oriente Medio y Europa."
 }
