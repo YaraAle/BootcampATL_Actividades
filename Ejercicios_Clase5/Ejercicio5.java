@@ -1,3 +1,5 @@
+package Ejercicios_Clase5;
+
 import java.util.Scanner;
 
 /*
