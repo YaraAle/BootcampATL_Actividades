@@ -1,6 +1,5 @@
-package Ejercicios_Clase5;
+package Clase5;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 /*
